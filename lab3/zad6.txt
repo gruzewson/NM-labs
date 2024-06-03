@@ -1,0 +1,4 @@
+Najlepsza jest metoda direct, najgorsza natomiast metoda Jacobiego.
+Żadna z metod iteracyjnych nie zbiega się.
+Dla naszej podanej macierzy metodami iteracyjnymi nie możemy obliczyć dokładnego wyniku,
+ponieważ error dąży do nieskończoności. 
